@@ -1,7 +1,4 @@
-## Всем привет \ Hi there \ 你好 👋
-
-
-<h2 align="center">🐍 My Contributions</h2>
+<h2 align="center">## Всем привет \ Hi there \ 你好 👋</h2>
 
 <picture>
   <source
